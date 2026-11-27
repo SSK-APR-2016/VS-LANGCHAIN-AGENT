@@ -1,5 +1,7 @@
-docling>=2.55
-docling-core[chunking]>=2.50
+#docling>=2.55
+#docling-core[chunking]>=2.50
+docling>=2.55,<2.70
+docling-core[chunking]>=2.50,<2.70
 pinecone>=6.0
 openai>=1.60
 tiktoken>=0.8
